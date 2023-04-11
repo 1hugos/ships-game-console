@@ -1,0 +1,9 @@
+Player won after 8 rounds.
+Computer won after 13 rounds.
+Computer won after 18 rounds.
+Player won after 11 rounds.
+Computer won after 11 rounds.
+Player won after 7 rounds.
+Player won after 21 rounds.
+Player won after 33 rounds.
+Player won after 28 rounds.
